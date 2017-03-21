@@ -1,1 +1,2 @@
 # VPS-Notes
+> “Iron rusts from disuse; stagnant water loses its purity and in cold weather becomes frozen; even so does inaction sap the vigor of the mind. So we must stretch ourselves to the very limits of human possibility. Anything less is a sin against both God and man.” — Leonardo DaVinci
